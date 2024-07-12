@@ -1,0 +1,1 @@
+1) This is a tip calculator that allows a group of people to split their bills evenly and allots money everyone has to pay in order to clear the bill. it also adds a fair tip by percentage of the total bill
